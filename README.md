@@ -96,17 +96,6 @@ Also check:
 ## Image Sources
 The project uses images downloaded from Pexels. Pexels states that its photos and videos can be used for free, including for websites, and attribution is not required, although credit is appreciated.
 
-Where image credits were collected during Part 1, the photographer/source details should be kept with the submission documentation.
-
-## GitHub
-The project should be pushed to the private GitHub repository supplied for the module. Descriptive commits should be made after each major stage.
-
-Suggested commit messages:
-1. `Fix Part 1 HTML structure and add contact form`
-2. `Add sitemap and README documentation`
-3. `Add external CSS styling for desktop`
-4. `Add responsive tablet and mobile layouts`
-5. `Test website and update changelog`
 
 ## References
 MDN Web Docs (2026) *HTML: A good basis for accessibility*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML (Accessed: 17 September 2026).

@@ -1,4 +1,4 @@
-# WEDE POE PART2
+# WEDE POE PART3
 # SWEET RISE BAKERY
 
 ## Project Overview

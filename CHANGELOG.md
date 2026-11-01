@@ -1,8 +1,8 @@
 # Changelog — Sweet Treat Bakery
 
-All dates use YYYY-MM-DD. This file records changes made to the student project.
+ This file records changes made to the project.
 
-## 2026-10-31 — POE 3 improvement draft
+## 2026-10-31 — POE 3 improvement 
 - Corrected invalid HTML markup and made navigation consistent across all pages.
 - Added a meta description and a descriptive page title to each page.
 - Added semantic page sections, a skip link and current-page navigation indication.
